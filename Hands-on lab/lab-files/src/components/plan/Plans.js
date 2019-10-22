@@ -58,7 +58,7 @@ export default class Plans extends Component {
 
         return (
             <div class="container">
-            <h3>Code Updted to tigger Build Pipeline using Jenkins on Azure/h3>
+            <h3>Code Updted to tigger Build Pipeline using Jenkins on Azure</h3>
                 <Grid>
                     <div class="plans">
                         <Row>{planCatalog}</Row>
